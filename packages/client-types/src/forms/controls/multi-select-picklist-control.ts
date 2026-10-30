@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IControl } from "./control.js";
 
 /** Multi-select option set represented by numeric option values. */

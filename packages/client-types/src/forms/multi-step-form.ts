@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /// <reference types="jquery" preserve="true" />
 
 import type { IForm } from "./form.js";

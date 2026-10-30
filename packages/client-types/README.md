@@ -1,3 +1,6 @@
+<!-- Copyright (c) Microsoft Corporation.
+Licensed under the MIT License. -->
+
 # @microsoft/power-pages-client-types
 
 Type declarations for the Power Pages Client. This package contains no JavaScript

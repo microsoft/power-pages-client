@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IPageElement } from "../common/page-element.js";
 import type { IControl } from "./controls/control.js";
 

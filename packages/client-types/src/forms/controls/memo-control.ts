@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IControl } from "./control.js";
 
 /** Multi-line text field. Setting an overlength value throws. */

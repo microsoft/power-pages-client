@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IControl } from "./control.js";
 import type { DropdownLookupControlValue } from "./control-values.js";
 

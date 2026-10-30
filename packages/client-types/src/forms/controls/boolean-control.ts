@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IControl } from "./control.js";
 
 /** Boolean radio field. Values are option strings, not JavaScript booleans. */

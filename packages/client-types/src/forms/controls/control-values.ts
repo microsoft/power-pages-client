@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** Value of a composite address field. */
 export interface IAddressCompositeControlValue {
   line1: string;

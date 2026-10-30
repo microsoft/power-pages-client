@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** A raw row value. Missing columns are reported as null. */
 export type RowValue = string | number | boolean | Date | null;
 

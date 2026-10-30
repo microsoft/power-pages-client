@@ -1,3 +1,6 @@
+<!-- Copyright (c) Microsoft Corporation.
+Licensed under the MIT License. -->
+
 # Power Pages Client
 
 Power Pages Client provides public type definitions for the

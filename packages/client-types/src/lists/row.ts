@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { ICell } from "./cell.js";
 import type { RowPrivileges, RowState, RowValue } from "./row-types.js";
 

@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** Shared visibility and DOM access for forms, controls, tabs, sections, and lists. */
 export interface IPageElement {
   /** Whether the element is currently visible. */

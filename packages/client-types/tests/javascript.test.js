@@ -1,3 +1,6 @@
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
 /** @param {import("@microsoft/power-pages-client-types").PagesClient} client */
 function useClient(client) {
   const form = client.currentPage.forms.getFormById("contact-form");

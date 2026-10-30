@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IFormCollection } from "./forms/form-collection.js";
 import type { IListCollection } from "./lists/list-collection.js";
 

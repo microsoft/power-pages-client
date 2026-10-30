@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IForm } from "./form.js";
 
 /** Forms on the current page. Multi-step-specific members require an explicit annotation. */

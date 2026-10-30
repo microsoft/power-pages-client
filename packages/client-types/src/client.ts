@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IAgent } from "./agent.js";
 import type { IAjax } from "./ajax.js";
 import type { ILanguages } from "./languages.js";

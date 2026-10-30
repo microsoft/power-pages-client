@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** A file or card exchanged with a Copilot Studio agent. */
 export interface AgentAttachment {
   /** Media type, such as "image/png", or a card content type. */

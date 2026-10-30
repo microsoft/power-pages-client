@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IRow } from "./row.js";
 
 /** Events available on modern lists. Classic lists do not dispatch these events. */

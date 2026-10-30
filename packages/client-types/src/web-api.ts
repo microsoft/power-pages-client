@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** File/image download options. */
 export interface DownloadFileFromColumnOptions {
   /** Full content by default; thumbnail applies to image columns. */

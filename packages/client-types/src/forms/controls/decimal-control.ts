@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 import type { IControl } from "./control.js";
 
 /** Decimal field represented as a string. */

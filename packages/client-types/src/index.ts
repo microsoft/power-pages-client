@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 export type { PagesClient } from "./client.js";
 export type { Page } from "./page.js";
 export type { IPageElement } from "./common/page-element.js";

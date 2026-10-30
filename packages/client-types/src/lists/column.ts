@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** Modern-list column metadata and presentation overrides. */
 export interface IColumn {
   getLogicalName(): string;

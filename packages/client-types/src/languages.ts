@@ -1,3 +1,6 @@
+/*! Copyright (c) Microsoft Corporation.
+ * Licensed under the MIT License. */
+
 /** Website language selection. */
 export interface ILanguages {
   /** Returns language codes enabled for the site. */
