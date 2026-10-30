@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "emitDeclarationOnly": false,
+    "noEmit": true,
+    "rootDir": ".",
+    "allowJs": true,
+    "checkJs": true
+  },
+  "files": [
+    "tests/consumer.test.ts",
+    "tests/javascript.test.js",
+    "tests/esm.test.mts"
+  ],
+  "include": []
+}

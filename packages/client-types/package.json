@@ -1,0 +1,42 @@
+{
+  "name": "@microsoft/power-pages-client-types",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Type definitions for the Power Pages Client.",
+  "license": "MIT",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts"
+    },
+    "./globals": {
+      "types": "./dist/globals.d.ts"
+    }
+  },
+  "typesVersions": {
+    "*": {
+      "globals": [
+        "./dist/globals.d.ts"
+      ]
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --emitDeclarationOnly false --noEmit",
+    "test": "npm run build && tsc -p tsconfig.tests.json && tsc -p tests/tsconfig.named.json",
+    "prepack": "npm run build"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.5.27"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3"
+  }
+}
