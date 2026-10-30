@@ -1,0 +1,6 @@
+{
+  "extends": "../tsconfig.tests.json",
+  "files": [
+    "named-only.test.ts"
+  ]
+}
