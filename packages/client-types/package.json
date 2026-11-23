@@ -1,7 +1,6 @@
 {
   "name": "@microsoft/power-pages-client-types",
-  "version": "0.0.0",
-  "private": true,
+  "version": "0.1.0",
   "description": "Type definitions for the Power Pages Client.",
   "license": "MIT",
   "types": "./dist/index.d.ts",
